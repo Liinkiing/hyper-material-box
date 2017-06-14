@@ -46,14 +46,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Liinkiing/hyper-material-box.git"
+    "url": "git+https://github.com/ooJerryLeeoo/hyper-material-box.git"
   },
-  "author": "Omar Jbara",
+  "author": "Jerry Lee",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Liinkiing/hyper-material-box/issues"
+    "url": "https://github.com/ooJerryLeeoo/hyper-material-box/issues"
   },
-  "homepage": "https://github.com/Liinkiing/hyper-material-box#readme",
+  "homepage": "https://github.com/ooJerryLeeoo/hyper-material-box#readme",
   "dependencies": {
     "color": "^1.0.3"
   }
