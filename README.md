@@ -7,6 +7,8 @@ I've decided to fork this repository because it allowed me to add my custom colo
 
 ![](http://i.imgur.com/8agdo5V.png)
 ![](http://i.imgur.com/4Ijurkd.png)
+![](http://i.imgur.com/HJv4PLx.png)
+(testing the multi panes functionality of Hyper. The left and bottom right panes have less opacity because they are not focused)
 
 Yeah I went pretty crazy (gradients, text shadow), but I like it this way and I wanted to test the customization of Hyper. It's pretty good. 
 
