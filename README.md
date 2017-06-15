@@ -11,6 +11,7 @@ I've decided to fork this repository because it allowed me to add my custom colo
 (testing the multi panes functionality of Hyper. The left and bottom right panes have less opacity because they are not focused)
 ![](http://i.imgur.com/CAw7Rus.png)
 (Example with Vim, using [spf13's Vim](https://github.com/spf13/spf13-vim) and syntax highlighting)
+![](http://i.imgur.com/vGscIUX.png)
 
 Yeah I went pretty crazy (gradients, text shadow), but I like it this way and I wanted to test the customization of Hyper. It's pretty good. 
 
